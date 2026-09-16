@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+<head>
+    <meta charset="UTF-8">
+    <title>My Personal Portfolio</title>
+</head>
+<body>
+    <header>
+        <a href="https://ibb.co/tpxhjVpB"><img src="https://i.ibb.co/tpxhjVpB/myphoto.jpg" alt="myphoto" border="0"></a>
+        <h1>Mohamed Samir</h1>
+        <p>Junior Web Developer | Passionate Learner</p>
+        <p>
+            <a href="mohed8309@gmail.com">Email Me</a> |
+            <a href="https://github.com/MohamedSammer26" target="_blank">GitHub</a>
+        </p>
+    </header>
+    <hr>
+    <section>
+        <h2>About Me</h2>
+        <p>I am an ambitious web developer who started my programming journey with great passion. I have successfully
+            mastered HTML and I am currently building real-world projects to apply what I have learned, preparing for
+            the next step of learning CSS and web design.</p>
+    </section>
+    <hr>
+    <section>
+        <h2>Education & Training</h2>
+        <ol>
+            <li>
+                <strong>Self-Taught Web Development</strong> - Online Learning Platforms (2026)
+            </li>
+            <li>
+                <strong>HTML Course Completion</strong> - Building Web Structures (2026)
+            </li>
+        </ol>
+    </section>
+    <hr>
+    <section>
+        <h2>Technical Skills</h2>
+        <ul>
+            <li>Writing clean and semantic HTML5 structures</li>
+            <li>Creating and managing complex Data Tables</li>
+            <li>Building forms and user input validation structures</li>
+            <li>Self-learning, research, and problem-solving skills</li>
+        </ul>
+    </section>
+    <hr>
+    <section>
+        <h2>Contact Me</h2>
+        <form action="">
+            <label for="name">Name:</label><br>
+            <input type="text" id="name" required><br><br>
+            <label for="email">Email Address:</label><br>
+            <input type="email" id="email" required><br><br>
+            <label for="message">Your Message:</label><br>
+            <textarea id="message" rows="4" cols="30" placeholder="Type your message here..."></textarea><br><br>
+            <input type="submit" value="Send Message">
+        </form>
+    </section>
+</body>
+</html>
