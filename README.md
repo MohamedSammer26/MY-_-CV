@@ -2,17 +2,17 @@
 
 My personal online CV / Resume built with pure HTML.
 
-### 🚀 Live Demo
-🔗 https://MohamedSammer26.github.io/CV/
+### Live Demo
+ https://MohamedSammer26.github.io/CV/
 
 
-### 👨‍💻 About Me
+### About Me
 I am Mohamed Sammer, passionate about web development and technology.
 
-### 🛠️ Built With
+### Built With
 - HTML5
 
-### 📫 Contact
+### Contact
 - GitHub: @MohamedSammer26
 
 ---
